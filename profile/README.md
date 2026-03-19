@@ -54,6 +54,6 @@ Every project is designed to solve real business challenges:
 
 ## Contact
 
-* ([meu LinkedIn](https://www.linkedin.com/in/valdevino-neto-845757/))
+* [meu LinkedIn](https://www.linkedin.com/in/valdevino-neto-845757/)
 
 ---
