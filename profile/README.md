@@ -23,7 +23,7 @@ Markzal is focused on designing and implementing **high-performance digital syst
 
 ---
 
-## ⚙️ Core Systems
+## Core Systems
 
 | Area              | Description                                |
 | ----------------- | ------------------------------------------ |
@@ -54,6 +54,6 @@ Every project is designed to solve real business challenges:
 
 ## Contact
 
-* LinkedIn: ([seu link](https://www.linkedin.com/in/valdevino-neto-845757/))
+* ([meu LinkedIn](https://www.linkedin.com/in/valdevino-neto-845757/))
 
 ---
