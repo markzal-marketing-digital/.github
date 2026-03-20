@@ -21,6 +21,11 @@ Markzal is focused on designing and implementing **high-performance digital syst
 * System Integration
 * Solution Architecture
 
+This project is part of a larger system:
+
+→ Conversion Engine
+→ Automation System
+→ API Integration Hub
 ---
 
 ## Core Systems
