@@ -23,7 +23,7 @@ Markzal is focused on designing and implementing **high-performance digital syst
 
 This project is part of a larger system:
 
-→ Conversion Engine
+Conversion Engine
 → Automation System
 → API Integration Hub
 
